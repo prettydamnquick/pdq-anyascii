@@ -1,4 +1,4 @@
-const block = require('/block.js');
+const block = require('./block')
 
 const blocks = {};
 
